@@ -1,9 +1,9 @@
 
-# Web Design & UX Engineering Final project
+# Passion Hub
 
 ## Project Description
 
-### Welcome to PassionHub, an engaging web application tailored for individuals eager to connect with like-minded enthusiasts. Getting started is a breeze – simply create an account and log in to unlock the diverse features of PassionHub. During registration, customize your experience by selecting your areas of interest, setting the stage for personalized recommendations. Once onboard, dive into the heart of PassionHub by creating or joining passion groups, where vibrant discussions unfold through group posts, complete with upvoting and downvoting options.
+### This project is titled PassionHub - an engaging web application tailored for individuals eager to connect with like-minded enthusiasts. Getting started is a breeze – simply create an account and log in to unlock the diverse features of PassionHub. During registration, customize your experience by selecting your areas of interest, setting the stage for personalized recommendations. Once onboard, dive into the heart of PassionHub by creating or joining passion groups, where vibrant discussions unfold through group posts, complete with upvoting and downvoting options.
 
 ### Forge meaningful connections by reaching out to fellow users via direct messaging, fostering one-on-one interactions. To sweeten the experience, PassionHub introduces a credit system, rewarding you with initial credits upon registration. Use these credits to access exclusive content in paid groups or to send direct messages.
 
@@ -13,7 +13,7 @@
 
 ## Object Model diagram for PassionHub
 
-![passionHubFinal](https://github.com/info-6150-fall-2023/final-project-overflow/assets/145076344/d2f6ec5c-ef39-4352-9b5d-ff5a391095de)
+![passionHubFinal](https://github.com/sahilmutha1999/PassionHub_Social_Media_Web_Application/blob/main/Model_Diag.png)
 
 ## Tools used
 
@@ -92,11 +92,3 @@ The profile page of the application now exclusively supports the French language
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
-
-
-## Members Contact Details
-
-- Palaniselvam Shyam Sundar (palaniselvam.s@northeastern.edu) 
-- Niraj Komalkant Malpani(malpani.n@northeastern.edu)
-- Prashanth Baskar(baskar.pr@northeastern.edu)
-- Sahil Mutha (mutha.sa@northeastern.edu)
